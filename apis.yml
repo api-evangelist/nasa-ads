@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://ui.adsabs.harvard.edu/help/api/api-docs.html
 common:
+  - type: DomainSecurity
+    url: security/nasa-ads-domain-security.yml
   - type: Website
     url: https://ui.adsabs.harvard.edu/help/api/api-docs.html
   - type: PublicAPIsListing
